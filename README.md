@@ -1,5 +1,3 @@
-# News_Extractor_bot
-Chatbot for news Analysis
 # NewsBot: News Research Tool 
 
 This bot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.This bot is a user-friendly research tool tailored for the stock market and financial domain. It allows users to input article URLs and ask questions to gain quick, relevant insights. Designed for simplicity and efficiency, it extracts key information from articles, enabling effortless retrieval of market trends, financial updates, and investment news. Whether you're tracking stocks, analyzing market shifts, or seeking clarity on complex topics, this tool offers an intuitive way to stay informed and make data-driven decisions with ease.
